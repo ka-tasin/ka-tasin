@@ -10,4 +10,5 @@
 
 - Reach me at:  kausar.ahmad.tasin01@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-tasin&layout=compact&theme=tokyonight)
+
