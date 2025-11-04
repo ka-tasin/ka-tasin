@@ -9,3 +9,5 @@
 - Open to collaborating on impactful projects that solve real-world problems with tech.
 
 - Reach me at:  kausar.ahmad.tasin01@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight)
