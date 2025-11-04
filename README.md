@@ -10,7 +10,7 @@
 
 - Reach me at:  kausar.ahmad.tasin01@gmail.com
 
-### 🛠️ Tech Stack
+###  Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
