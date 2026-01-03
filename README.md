@@ -21,6 +21,8 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-tasin&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ka-tasin&layout=compact&theme=tokyonight)
+
 
 
