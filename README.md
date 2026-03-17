@@ -72,74 +72,37 @@ I'm a passionate software engineer with 1.5+ years of experience building scalab
 ### [DreamJobs](https://github.com/ka-tasin/dream-jobs)
 A full-stack job platform connecting employers and job seekers, designed with clean architecture principles.
 
-- 🏗️ Implemented **scalable clean architecture** with layered Controller → Service → Repository design
-- 💉 Applied **Inversion of Control (IoC)** and **Dependency Injection (DI)** for maintainability
-- 🔄 Used **Unit of Work pattern** with Prisma ORM for PostgreSQL transaction management
-- 🧪 Built RESTful APIs with structured error handling and **Jest integration testing**
+- Implemented **scalable clean architecture** with layered Controller → Service → Repository design
+- Applied **Inversion of Control (IoC)** and **Dependency Injection (DI)** for maintainability
+- Used **Unit of Work pattern** with Prisma ORM for PostgreSQL transaction management
+- Built RESTful APIs with structured error handling and **Jest integration testing**
 
 ### [Convo.ai](https://github.com/ka-tasin/convo.ai)
 Real-time chat application enabling communication between users and an integrated AI assistant.
 
-- ⚡ Developed real-time messaging using **Socket.io** with secure JWT authentication
-- 🤖 Integrated **ChatGPT AI** for real-time assistant responses within conversations
-- 🗄️ Built flexible API structure with Node.js, TypeScript, Express, and **MongoDB**
-- 🎨 Created responsive frontend using **React.js** and **Tailwind CSS**
+- Developed real-time messaging using **Socket.io** with secure JWT authentication
+- Integrated **ChatGPT AI** for real-time assistant responses within conversations
+- Built flexible API structure with Node.js, TypeScript, Express, and **MongoDB**
+- Created responsive frontend using **React.js** and **Tailwind CSS**
 
 ### [Contest-pro](https://github.com/ka-tasin/contest-pro)
 Full-stack platform where creators host contests and users participate with submissions.
 
-- 🔐 Implemented **role-based access control** with distinct dashboards for Admin, Creator, and User roles
-- ⭐ Designed secure participant rating system with MongoDB validation logic
-- 💳 Integrated **Stripe payment API** for contest entry fees with secure backend verification
+- Implemented **role-based access control** with distinct dashboards for Admin, Creator, and User roles
+- Designed secure participant rating system with MongoDB validation logic
+- Integrated **Stripe payment API** for contest entry fees with secure backend verification
 
----
-
-## 💼 Experience
-
-### **Full Stack Developer** | Meta Infinity | Bogura, Bangladesh
-*Nov 2024 – Present*
-- 🏭 Developing an in-house **Inventory Management System** to manage core business processes
-- 🔌 Building **RESTful APIs** using Node.js for both web dashboard and mobile applications
-- 📱 Designing backend features for customer mobile app including product authenticity verification and personalized offers
-- 🖥️ Implementing admin dashboard with **React.js** and working with **MySQL & Prisma ORM**
-- 🔧 Refactoring legacy code and managing production deployments on **VPS server**
-
-### **Frontend Developer** | The Tork Inc. | Chittagong, Bangladesh
-*Dec 2024 – Apr 2025*
-- ⚛️ Developed applications using **Next.js**, **TypeScript**, and Sass (SCSS)
-- 📚 Built LMS features including student dashboards and payment integration
-- 🛒 Developed e-commerce features with **Redux** for state management
-- 👥 Collaborated with backend teams on API integration and error tracking using **Jira**
-- 🔄 Migrated a Vue.js user interface to a Next.js project
-
----
-
-## 🏆 Achievements
-
-- 🎓 **CGPA 3.78/4.00** in B.Sc. in Computer Science and Engineering
-- 🏅 Active Member of **Pundra University Programming Club (PUPC)** (2022-2023)
-- 🏆 Competed in **Pundra University Programming Contest** (2020, 2022)
-
----
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ka-tasin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ka-tasin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kausar.ahmad.tasin01@gmail.com)
 
-📍 **Location:** Bogura-5800, Bangladesh  
-📧 **Email:** kausar.ahmad.tasin01@gmail.com  
-📱 **Mobile:** +8801333709177  
+ **Location:** Bogura-5800, Bangladesh  
+ **Email:** kausar.ahmad.tasin01@gmail.com  
+ **Mobile:** +8801333709177  
 
----
 
-## 🌐 Languages
-
-- **Bengali** – Native
-- **English** – Fluent (Professional working proficiency)
-
----
 
 <div align="center">
   <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
