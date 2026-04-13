@@ -1,3 +1,4 @@
+![1742311604810](https://github.com/user-attachments/assets/c7f50f66-49a3-4168-8766-dc8144eaf603)
 # Hi there, I'm Kausar Ahmad Tasin 👋
 
 **Software Engineer | Full-Stack Developer**
