@@ -57,13 +57,19 @@ I'm a passionate software engineer with 1.5+ years of experience building scalab
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka-tasin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ka-tasin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ka-tasin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ka-tasin&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <!-- Streak Card (more stable mirror) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ka-tasin&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
+
+
 
 ---
 
