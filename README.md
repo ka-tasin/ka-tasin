@@ -11,8 +11,7 @@ I'm a passionate software engineer with 1.5+ years of experience building scalab
 
 - 🚀 Building an **Inventory Management System** at Meta Infinity with Node.js and React
 - 🌱 Learning **Docker**, **System Design**, and **Clean Architecture** patterns
-- 💼 Working on RESTful APIs with layered architecture (Controller → Service → Repository)
-- 🔧 Exploring microservices architecture and transaction management patterns
+- 💼 Working on RESTful APIs with layered architecture
 - 📚 Studying advanced backend design principles and testing methodologies
 
 ---
